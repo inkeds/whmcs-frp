@@ -36,6 +36,7 @@ whmcs-frp/
 │   └── templates/              # 配置模板
 └── sql/
     └── install.sql             # 数据库结构
+```
 
 ## 安装配置
 
